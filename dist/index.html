@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101116">
+  <meta name="description" content="Majority Rules: Seasonal Edition. A real-time party game of popular opinion for 2–8 friends.">
+  <title>Majority Rules: Seasonal Edition</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" type="module"></script>
+</head>
+<body data-theme="standard">
+  <header class="topbar"><a class="wordmark" href="/" aria-label="Majority Rules home"><span class="brand-icon">M<span>R</span></span><span>MAJORITY RULES<span class="edition">SEASONAL EDITION</span></span></a><div class="header-right"><span class="small-pill">2–8 PLAYERS</span><label class="language-picker"><span class="sr-only" id="language-label">Language</span><select id="language-select" data-language><option value="en">English</option><option value="es">Español</option><option value="fr">Français</option></select></label><button class="text-button" id="rules-open">How to play</button></div></header>
+  <main id="app"><div class="loading" role="status">Setting the table…</div></main>
+  <footer><span>A little chaos. A lot of opinions.</span><span id="footer-status">One room. Every device.</span></footer>
+  <div id="toasts" role="status" aria-live="polite"></div>
+  <dialog id="modal" aria-labelledby="modal-title"><div id="modal-body"></div></dialog>
+</body>
+</html>

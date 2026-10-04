@@ -1,0 +1,250 @@
+{
+  "Choose 3, 5, 10, 15, or 20 rounds.": {
+    "es": "Elige 3, 5, 10, 15 o 20 rondas.",
+    "fr": "Choisis 3, 5, 10, 15 ou 20 manches."
+  },
+  "Please retry this action.": {
+    "es": "Vuelve a intentar esta acción.",
+    "fr": "Réessaie cette action."
+  },
+  "That request has already been used. Please try again.": {
+    "es": "Esa solicitud ya se ha utilizado. Vuelve a intentarlo.",
+    "fr": "Cette demande a déjà été utilisée. Réessaie."
+  },
+  "The party server is busy. Please try again.": {
+    "es": "El servidor del juego está ocupado. Vuelve a intentarlo.",
+    "fr": "Le serveur du jeu est occupé. Réessaie."
+  },
+  "Use a POST request.": {
+    "es": "Usa una solicitud POST.",
+    "fr": "Utilise une requête POST."
+  },
+  "Please enter a question and two choices.": {
+    "es": "Escribe una pregunta y dos opciones.",
+    "fr": "Saisis une question et deux choix."
+  },
+  "The prompt must be 15–120 characters.": {
+    "es": "La pregunta debe tener 15–120 caracteres.",
+    "fr": "La question doit contenir 15 à 120 caractères."
+  },
+  "Each choice must be 2–40 characters.": {
+    "es": "Cada opción debe tener 2–40 caracteres.",
+    "fr": "Chaque choix doit contenir 2 à 40 caractères."
+  },
+  "The two choices must be different.": {
+    "es": "Las dos opciones deben ser diferentes.",
+    "fr": "Les deux choix doivent être différents."
+  },
+  "Please use readable text.": {
+    "es": "Usa texto legible.",
+    "fr": "Utilise du texte lisible."
+  },
+  "That deck code is too large.": {
+    "es": "Ese código de mazo es demasiado largo.",
+    "fr": "Ce code de paquet est trop long."
+  },
+  "Use a valid MR1 deck code.": {
+    "es": "Usa un código de mazo MR1 válido.",
+    "fr": "Utilise un code de paquet MR1 valide."
+  },
+  "That deck code is malformed.": {
+    "es": "Ese código de mazo tiene un formato incorrecto.",
+    "fr": "Le format de ce code de paquet est incorrect."
+  },
+  "That deck code is damaged or invalid.": {
+    "es": "Ese código de mazo está dañado o no es válido.",
+    "fr": "Ce code de paquet est endommagé ou invalide."
+  },
+  "A deck code must contain 1–100 questions.": {
+    "es": "Un código de mazo debe contener entre 1 y 100 preguntas.",
+    "fr": "Un code de paquet doit contenir 1 à 100 questions."
+  },
+  "That deck contains an invalid question.": {
+    "es": "Ese mazo contiene una pregunta no válida.",
+    "fr": "Ce paquet contient une question invalide."
+  },
+  "Room not found. Check the six-character code.": {
+    "es": "No se encontró la sala. Revisa el código de seis caracteres.",
+    "fr": "Salon introuvable. Vérifie le code à six caractères."
+  },
+  "Your seat has expired. Please join again.": {
+    "es": "Tu reserva de lugar ha caducado. Vuelve a entrar.",
+    "fr": "Ta place a expiré. Rejoins à nouveau le salon."
+  },
+  "Only the host can do that.": {
+    "es": "Solo el anfitrión puede hacer eso.",
+    "fr": "Seul l’hôte peut faire ça."
+  },
+  "This is available in the lobby between games.": {
+    "es": "Esto está disponible en la sala de espera entre partidas.",
+    "fr": "Cette option est disponible dans le salon d’attente entre les parties."
+  },
+  "The party server is full. Try again later.": {
+    "es": "El servidor del juego está lleno. Inténtalo más tarde.",
+    "fr": "Le serveur de jeu est complet. Réessaie plus tard."
+  },
+  "This room already has eight players. The host can release offline seats.": {
+    "es": "Esta sala ya tiene ocho jugadores. El anfitrión puede liberar los lugares sin conexión.",
+    "fr": "Ce salon compte déjà huit joueurs. L’hôte peut libérer les places hors ligne."
+  },
+  "Use a nickname of 1–20 characters.": {
+    "es": "Usa un apodo de 1–20 caracteres.",
+    "fr": "Choisis un pseudo de 1 à 20 caractères."
+  },
+  "Please use a readable nickname.": {
+    "es": "Usa un apodo legible.",
+    "fr": "Utilise un pseudo lisible."
+  },
+  "Choose an avatar color.": {
+    "es": "Elige un color para tu avatar.",
+    "fr": "Choisis une couleur pour ton avatar."
+  },
+  "That color was just taken. Choose another.": {
+    "es": "Alguien acaba de elegir ese color. Elige otro.",
+    "fr": "Cette couleur vient d’être prise. Choisis-en une autre."
+  },
+  "This game has started. Join when the group returns to the lobby.": {
+    "es": "Esta partida ya empezó. Entra cuando el grupo vuelva a la sala de espera.",
+    "fr": "La partie a commencé. Rejoins le groupe à son retour au salon d’attente."
+  },
+  "Choose valid settings.": {
+    "es": "Elige ajustes válidos.",
+    "fr": "Choisis des réglages valides."
+  },
+  "Unknown theme.": {
+    "es": "Tema desconocido.",
+    "fr": "Thème inconnu."
+  },
+  "Unknown deck.": {
+    "es": "Mazo desconocido.",
+    "fr": "Paquet inconnu."
+  },
+  "Choose 5, 10, 15, or 20 rounds.": {
+    "es": "Elige 5, 10, 15 o 20 rondas.",
+    "fr": "Choisis 5, 10, 15 ou 20 manches."
+  },
+  "That question was rejected and is locked for this room session.": {
+    "es": "Esa pregunta fue rechazada y está bloqueada durante esta sesión de la sala.",
+    "fr": "Cette question a été rejetée et reste bloquée pendant cette session du salon."
+  },
+  "That question is already in this room.": {
+    "es": "Esa pregunta ya está en esta sala.",
+    "fr": "Cette question est déjà dans ce salon."
+  },
+  "This room can hold up to 100 custom questions.": {
+    "es": "Esta sala admite hasta 100 preguntas propias.",
+    "fr": "Ce salon peut contenir jusqu’à 100 questions personnalisées."
+  },
+  "That ballot has finished.": {
+    "es": "Esa votación ha terminado.",
+    "fr": "Ce vote est terminé."
+  },
+  "That approval ballot has expired.": {
+    "es": "Se acabó el tiempo para aprobar esa pregunta.",
+    "fr": "Le délai pour approuver cette question est écoulé."
+  },
+  "Choose approve or pass.": {
+    "es": "Elige aprobar o rechazar.",
+    "fr": "Choisis d’approuver ou de refuser."
+  },
+  "Reconnect before voting.": {
+    "es": "Vuelve a conectarte antes de votar.",
+    "fr": "Reconnecte-toi avant de voter."
+  },
+  "Your approval vote is already locked.": {
+    "es": "Tu voto sobre esta pregunta ya está confirmado.",
+    "fr": "Ton vote sur cette question est déjà validé."
+  },
+  "Import would exceed the 100 custom-question limit.": {
+    "es": "La importación superaría el límite de 100 preguntas propias.",
+    "fr": "L’importation dépasserait la limite de 100 questions personnalisées."
+  },
+  "At least two connected players are needed to start.": {
+    "es": "Se necesitan al menos dos jugadores en línea para empezar.",
+    "fr": "Il faut au moins deux joueurs en ligne pour commencer."
+  },
+  "Finish the custom-question ballots before starting.": {
+    "es": "Terminen las votaciones de preguntas propias antes de empezar.",
+    "fr": "Terminez les votes sur les questions personnalisées avant de commencer."
+  },
+  "There are not enough distinct questions.": {
+    "es": "No hay suficientes preguntas diferentes.",
+    "fr": "Il n’y a pas assez de questions différentes."
+  },
+  "This round has already closed.": {
+    "es": "Esta ronda ya terminó.",
+    "fr": "Cette manche est déjà terminée."
+  },
+  "Time is up. Your vote did not arrive in time.": {
+    "es": "Se acabó el tiempo. Tu voto no llegó a tiempo.",
+    "fr": "Le temps est écoulé. Ton vote est arrivé trop tard."
+  },
+  "You can vote in the next round.": {
+    "es": "Podrás votar en la siguiente ronda.",
+    "fr": "Tu pourras voter à la prochaine manche."
+  },
+  "Choose A or B.": {
+    "es": "Elige A o B.",
+    "fr": "Choisis A ou B."
+  },
+  "Your vote is already locked.": {
+    "es": "Tu voto ya está confirmado.",
+    "fr": "Ton vote est déjà validé."
+  },
+  "Wait until the round is revealed.": {
+    "es": "Espera a que se muestren los resultados de la ronda.",
+    "fr": "Attends les résultats de la manche."
+  },
+  "Wait for at least two players to reconnect.": {
+    "es": "Espera a que al menos dos jugadores se reconecten.",
+    "fr": "Attends qu’au moins deux joueurs se reconnectent."
+  },
+  "Finish the game before playing again.": {
+    "es": "Termina la partida antes de volver a jugar.",
+    "fr": "Termine la partie avant de rejouer."
+  },
+  "Release seats between games.": {
+    "es": "Libera los lugares entre partidas.",
+    "fr": "Libère les places entre les parties."
+  },
+  "Only offline seats can be released.": {
+    "es": "Solo se pueden liberar lugares de jugadores sin conexión.",
+    "fr": "Seules les places des joueurs hors ligne peuvent être libérées."
+  },
+  "Unknown action.": {
+    "es": "Acción desconocida.",
+    "fr": "Action inconnue."
+  },
+  "Too many requests. Give it a moment and try again.": {
+    "es": "Demasiadas solicitudes. Espera un momento e inténtalo de nuevo.",
+    "fr": "Trop de demandes. Patiente un instant et réessaie."
+  },
+  "That request is too large.": {
+    "es": "Esa solicitud es demasiado grande.",
+    "fr": "Cette demande est trop volumineuse."
+  },
+  "Please send valid question data.": {
+    "es": "Envía datos de pregunta válidos.",
+    "fr": "Envoie des données de question valides."
+  },
+  "Too many open tabs for this seat. Close an extra tab.": {
+    "es": "Hay demasiadas pestañas abiertas para este jugador. Cierra una de ellas.",
+    "fr": "Trop d’onglets sont ouverts pour cette place. Ferme un onglet."
+  },
+  "Open the game on its own address to continue.": {
+    "es": "Abre el juego en su propia dirección para continuar.",
+    "fr": "Ouvre le jeu à sa propre adresse pour continuer."
+  },
+  "Expected JSON data.": {
+    "es": "Se esperaban datos en formato JSON.",
+    "fr": "Des données au format JSON sont attendues."
+  },
+  "Page not found.": {
+    "es": "Página no encontrada.",
+    "fr": "Page introuvable."
+  },
+  "Something went wrong. Please try again.": {
+    "es": "Algo salió mal. Inténtalo de nuevo.",
+    "fr": "Un problème est survenu. Réessaie."
+  }
+}

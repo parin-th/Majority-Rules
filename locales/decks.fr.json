@@ -1,0 +1,637 @@
+[
+  {
+    "id": "general",
+    "title": "Tout et n'importe quoi",
+    "description": "De petits choix, de grandes opinions et aucune réponse raisonnable.",
+    "questions": [
+      {
+        "id": "general-01",
+        "prompt": "Tu gagnes un superpouvoir avec un petit défaut. Lequel choisis-tu ?",
+        "a": "Voler à la vitesse de la marche",
+        "b": "Se téléporter, mais arriver humide"
+      },
+      {
+        "id": "general-02",
+        "prompt": "Quel son devrait accompagner chacune de tes entrées dans une pièce ?",
+        "a": "Une musique de film dramatique",
+        "b": "Une petite salve d'applaudissements"
+      },
+      {
+        "id": "general-03",
+        "prompt": "Ton animal peut parler pendant une minute. Que préfères-tu entendre ?",
+        "a": "Son avis sincère sur toi",
+        "b": "Son plus grand secret"
+      },
+      {
+        "id": "general-04",
+        "prompt": "Tu dois porter le même accessoire chaque jour pendant un an. Lequel ?",
+        "a": "Un magnifique chapeau de sorcier",
+        "b": "Une minuscule cape de super-héros"
+      },
+      {
+        "id": "general-05",
+        "prompt": "Quel petit désagrément du quotidien voudrais-tu éliminer pour toujours ?",
+        "a": "Faire la queue",
+        "b": "Oublier pourquoi on entre quelque part"
+      },
+      {
+        "id": "general-06",
+        "prompt": "Des extraterrestres te demandent d'expliquer une habitude humaine. Laquelle ?",
+        "a": "Les bavardages sur la météo",
+        "b": "Applaudir à l'atterrissage d'un avion"
+      },
+      {
+        "id": "general-07",
+        "prompt": "Ton frigo gagne une fonction magique. Laquelle veux-tu ?",
+        "a": "Remplir ton stock de goûters favoris",
+        "b": "Cuisiner ce qu'il contient déjà"
+      },
+      {
+        "id": "general-08",
+        "prompt": "Qu'est-ce qui rendrait un mardi ordinaire plus intéressant ?",
+        "a": "Tout le monde se déplace en rollers",
+        "b": "On parle en paroles de chansons"
+      },
+      {
+        "id": "general-09",
+        "prompt": "Tu peux toujours trouver une chose instantanément. Tu choisis quoi ?",
+        "a": "La place de parking idéale",
+        "b": "L'objet que tu viens de perdre"
+      },
+      {
+        "id": "general-10",
+        "prompt": "Une oie inoffensive décide de te suivre partout. Que fais-tu ?",
+        "a": "Lui donner un nom et un nœud papillon",
+        "b": "L'engager comme garde du corps"
+      },
+      {
+        "id": "general-11",
+        "prompt": "Tu dois remplacer un autre repas par un petit-déjeuner pour toujours. Lequel ?",
+        "a": "Le repas de midi",
+        "b": "Le repas du soir"
+      },
+      {
+        "id": "general-12",
+        "prompt": "Un génie ajoute une pièce totalement inutile à ta maison. Tu choisis quoi ?",
+        "a": "Une pièce remplie de trampolines",
+        "b": "Une pièce pleine de chiots adorables"
+      },
+      {
+        "id": "general-13",
+        "prompt": "Tu dois participer à un championnat ridicule. Quelle est ton épreuve ?",
+        "a": "La sieste de compétition",
+        "b": "Le montage express de meubles en kit"
+      },
+      {
+        "id": "general-14",
+        "prompt": "Quel petit luxe mérite un abonnement à vie ?",
+        "a": "Des draps propres chaque soir",
+        "b": "Une boisson parfaite chaque matin"
+      },
+      {
+        "id": "general-15",
+        "prompt": "Ton reflet se met à te donner des conseils. Lesquels veux-tu ?",
+        "a": "Un avis sans filtre sur tes tenues",
+        "b": "Des encouragements survoltés"
+      },
+      {
+        "id": "general-16",
+        "prompt": "Tu peux échanger une corvée contre cinq minutes de duel de danse. Laquelle ?",
+        "a": "Faire la vaisselle",
+        "b": "Plier le linge"
+      },
+      {
+        "id": "general-17",
+        "prompt": "Avec quelle petite malédiction serait-il le plus facile de vivre ?",
+        "a": "Des chaussures qui couinent à vie",
+        "b": "Le hoquet à chaque bonjour"
+      },
+      {
+        "id": "general-18",
+        "prompt": "Tu découvres une porte secrète chez toi. Où devrait-elle mener ?",
+        "a": "Une plage paisible au soleil couchant",
+        "b": "Un petit resto où tout est gratuit"
+      },
+      {
+        "id": "general-19",
+        "prompt": "Tu peux figer le temps dix minutes par jour. Comment en profites-tu ?",
+        "a": "Dormir un peu plus",
+        "b": "Trouver la réplique parfaite"
+      },
+      {
+        "id": "general-20",
+        "prompt": "On remplace les poignées de main par un nouveau salut. Tu votes pour quoi ?",
+        "a": "Des doigts en pistolets et un clin d'œil",
+        "b": "Une petite révérence très solennelle"
+      }
+    ]
+  },
+  {
+    "id": "pop",
+    "title": "Culture pop et cinéma",
+    "description": "Rôles de stars, suites discutables et débats autour du pop-corn.",
+    "questions": [
+      {
+        "id": "pop-01",
+        "prompt": "Tu passes une semaine dans l'univers d'un film. Quel genre choisis-tu ?",
+        "a": "Une comédie romantique réconfortante",
+        "b": "Une grande aventure spatiale"
+      },
+      {
+        "id": "pop-02",
+        "prompt": "Ta série préférée gagne une saison. Qui devrait tenir le premier rôle ?",
+        "a": "Le personnage secondaire adoré",
+        "b": "Un tout nouveau personnage"
+      },
+      {
+        "id": "pop-03",
+        "prompt": "Pour une soirée cinéma parfaite, quelle règle est non négociable ?",
+        "a": "Interdiction absolue de parler",
+        "b": "Les commentaires sont encouragés"
+      },
+      {
+        "id": "pop-04",
+        "prompt": "Tu peux maîtriser instantanément un talent de spectacle. Lequel ?",
+        "a": "Chanter magnifiquement toute chanson",
+        "b": "Imiter une célébrité à la perfection"
+      },
+      {
+        "id": "pop-05",
+        "prompt": "On tourne un film sur ta vie. Comment faut-il la raconter ?",
+        "a": "Un film d'action complètement fou",
+        "b": "Une comédie tendre et maladroite"
+      },
+      {
+        "id": "pop-06",
+        "prompt": "Tu dois subir l'une de ces règles de streaming pendant un an. Laquelle est la pire ?",
+        "a": "Ne revoir que ce que tu connais déjà",
+        "b": "Ne jamais finir une série commencée"
+      },
+      {
+        "id": "pop-07",
+        "prompt": "Quel métier de fiction aimerais-tu tester pendant une journée ?",
+        "a": "Assistant personnel d'un super-héros",
+        "b": "Chef de cuisine d'un royaume fantastique"
+      },
+      {
+        "id": "pop-08",
+        "prompt": "Un grand classique va être refait. Quelle approche préfères-tu ?",
+        "a": "Garder l'histoire d'origine intacte",
+        "b": "Partir dans une direction inédite"
+      },
+      {
+        "id": "pop-09",
+        "prompt": "Tu peux ajouter un effet de cinéma à ton quotidien. Lequel choisis-tu ?",
+        "a": "Une bande-son que toi seul entends",
+        "b": "Un montage qui termine tes corvées"
+      },
+      {
+        "id": "pop-10",
+        "prompt": "Ton billet de concert comprend un privilège. Lequel veux-tu ?",
+        "a": "Le premier rang pendant tout le show",
+        "b": "Une discussion tranquille avec l'artiste"
+      },
+      {
+        "id": "pop-11",
+        "prompt": "Le groupe doit choisir un seul genre de film ce soir. Lequel gagne ?",
+        "a": "Un mystère au dénouement renversant",
+        "b": "Une comédie qu'on cite tous par cœur"
+      },
+      {
+        "id": "pop-12",
+        "prompt": "Tu décroches un rôle dans un gros film. Lequel semble le plus amusant ?",
+        "a": "Le méchant au style spectaculaire",
+        "b": "Le meilleur ami qui vole la vedette"
+      },
+      {
+        "id": "pop-13",
+        "prompt": "Une chanson va te rester en tête pendant un mois. Laquelle préfères-tu ?",
+        "a": "Ta chanson préférée de tous les temps",
+        "b": "Un tube que tu connais à peine"
+      },
+      {
+        "id": "pop-14",
+        "prompt": "Quelle serait la meilleure fin pour une série qui dure depuis longtemps ?",
+        "a": "Une réponse à toutes les questions",
+        "b": "Une surprise audacieuse et inoubliable"
+      },
+      {
+        "id": "pop-15",
+        "prompt": "Tu obtiens un objet de fiction utilisable une seule fois. Lequel prends-tu ?",
+        "a": "Une machine à voyager dans le temps",
+        "b": "Une baguette magique"
+      },
+      {
+        "id": "pop-16",
+        "prompt": "Ton acteur préféré est assis à côté de toi dans l'avion. Que fais-tu ?",
+        "a": "Lui dire poliment bonjour une fois",
+        "b": "Faire semblant de ne pas le reconnaître"
+      },
+      {
+        "id": "pop-17",
+        "prompt": "Tu dois participer à un concours télévisé. Où as-tu le plus de chances ?",
+        "a": "Un concours de cuisine amateur",
+        "b": "Une course d'obstacles ridicule"
+      },
+      {
+        "id": "pop-18",
+        "prompt": "Un nouveau film dure trois heures. Comment préfères-tu le regarder ?",
+        "a": "Au cinéma, d'une seule traite",
+        "b": "À la maison, avec un entracte"
+      },
+      {
+        "id": "pop-19",
+        "prompt": "Une voix raconte soudain ta vie. Quel ton devrait-elle adopter ?",
+        "a": "Un commentateur sportif surexcité",
+        "b": "La voix douce d'un documentaire nature"
+      },
+      {
+        "id": "pop-20",
+        "prompt": "Quelle capsule culturelle du passé ouvrirais-tu en premier ?",
+        "a": "Tes films d'enfance préférés",
+        "b": "Tes anciennes playlists musicales"
+      }
+    ]
+  },
+  {
+    "id": "dating",
+    "title": "Amour et dilemmes entre amis",
+    "description": "Messages de groupe, premiers rendez-vous et petits choix qui prennent des proportions folles.",
+    "questions": [
+      {
+        "id": "dating-01",
+        "prompt": "Quel premier rendez-vous permet le mieux de créer des liens ?",
+        "a": "Un café et une longue promenade",
+        "b": "Du minigolf et des taquineries"
+      },
+      {
+        "id": "dating-02",
+        "prompt": "Un ami te demande si sa coupe ratée lui va bien. Que lui dis-tu ?",
+        "a": "La vérité, avec douceur",
+        "b": "Un compliment sur un petit détail"
+      },
+      {
+        "id": "dating-03",
+        "prompt": "Votre groupe organise un dîner depuis six jours. Comment débloques-tu la situation ?",
+        "a": "Je choisis un resto et je réserve",
+        "b": "Un sondage, en espérant la paix"
+      },
+      {
+        "id": "dating-04",
+        "prompt": "Tu arrives en avance à une fête où tu ne connais que l'hôte. Que fais-tu ?",
+        "a": "Aider à préparer et rencontrer les gens",
+        "b": "Faire un tour et revenir plus tard"
+      },
+      {
+        "id": "dating-05",
+        "prompt": "Quelle habitude par message est la plus agaçante ?",
+        "a": "Mettre trois jours à répondre",
+        "b": "Envoyer dix messages pour une phrase"
+      },
+      {
+        "id": "dating-06",
+        "prompt": "Un ami te révèle la suite de ta série. Quelle compensation serait juste ?",
+        "a": "Il t'offre ton goûter préféré",
+        "b": "Tu choisis le prochain film"
+      },
+      {
+        "id": "dating-07",
+        "prompt": "Au rendez-vous, le plat de l'autre est bien meilleur que le tien. Que peux-tu faire ?",
+        "a": "Demander à goûter une bouchée",
+        "b": "Commander un deuxième plat pour toi"
+      },
+      {
+        "id": "dating-08",
+        "prompt": "Tu as ton samedi de libre. Quelle invitation te tente le plus ?",
+        "a": "Une virée improvisée sur la route",
+        "b": "Une soirée maison savamment organisée"
+      },
+      {
+        "id": "dating-09",
+        "prompt": "Quelqu'un fait signe dans ta direction, mais est-ce pour toi ? Réagis !",
+        "a": "Répondre avec assurance quand même",
+        "b": "Me retourner pour vérifier d'abord"
+      },
+      {
+        "id": "dating-10",
+        "prompt": "Ton ami a toujours vingt minutes de retard. Comment gères-tu ça ?",
+        "a": "Lui donner une heure plus tôt",
+        "b": "Commencer sans lui, sans rancune"
+      },
+      {
+        "id": "dating-11",
+        "prompt": "Quel est le meilleur signe d'une belle amitié ?",
+        "a": "Parler pendant des heures",
+        "b": "Partager le silence sans gêne"
+      },
+      {
+        "id": "dating-12",
+        "prompt": "Ta moitié organise une sortie surprise. Laquelle préfères-tu ?",
+        "a": "Un dîner chic en tenue élégante",
+        "b": "Une aventure loufoque en tenue relax"
+      },
+      {
+        "id": "dating-13",
+        "prompt": "Une personne inconnue te fait un compliment sincère. Comment réagis-tu d'habitude ?",
+        "a": "L'accepter avec un simple merci",
+        "b": "Lui retourner aussitôt un compliment"
+      },
+      {
+        "id": "dating-14",
+        "prompt": "Tu réalises que tu te trompes de prénom depuis des semaines. Que fais-tu ?",
+        "a": "L'avouer et m'excuser",
+        "b": "Demander à un ami commun de vérifier"
+      },
+      {
+        "id": "dating-15",
+        "prompt": "Un ami veut publier une photo de groupe où tu as l'air ridicule. Tu décides quoi ?",
+        "a": "Vas-y, c'est le souvenir qui compte",
+        "b": "On la refait, que tout le monde brille"
+      },
+      {
+        "id": "dating-16",
+        "prompt": "Quel invité est le plus bienvenu à ton dîner ?",
+        "a": "La personne qui raconte si bien",
+        "b": "La personne qui fait la vaisselle"
+      },
+      {
+        "id": "dating-17",
+        "prompt": "Tu peux partager une passion avec ton futur amour. Laquelle ?",
+        "a": "Cuisiner des plats audacieux",
+        "b": "Explorer de nouveaux endroits"
+      },
+      {
+        "id": "dating-18",
+        "prompt": "Tu envoies un selfie idiot au mauvais groupe par erreur. Quelle est ta réaction ?",
+        "a": "Assumer avec une légende encore pire",
+        "b": "Expliquer, m'excuser, passer à la suite"
+      },
+      {
+        "id": "dating-19",
+        "prompt": "Tes amis veulent des tenues assorties en vacances. Quel est ton avis ?",
+        "a": "Partant ! On joue le jeu à fond",
+        "b": "Un accessoire commun, ça suffit"
+      },
+      {
+        "id": "dating-20",
+        "prompt": "Quelle est la meilleure façon de fêter la grande réussite d'un ami ?",
+        "a": "Une fête surprise avec tout le monde",
+        "b": "Une sortie à deux choisie avec soin"
+      }
+    ]
+  },
+  {
+    "id": "work",
+    "title": "Bêtises au bureau et à l'école",
+    "description": "Réunions, travaux de groupe et procrastination de haut niveau.",
+    "questions": [
+      {
+        "id": "work-01",
+        "prompt": "Ton prochain cours ou ta prochaine réunion gagne un atout magique. Lequel ?",
+        "a": "Finir toujours dix minutes plus tôt",
+        "b": "Toujours proposer de super gourmandises"
+      },
+      {
+        "id": "work-02",
+        "prompt": "Un projet de groupe a besoin d'un volontaire. Quel rôle prends-tu ?",
+        "a": "Présenter le résultat final",
+        "b": "Créer des diapositives magnifiques"
+      },
+      {
+        "id": "work-03",
+        "prompt": "Tu peux changer définitivement tes horaires. Que préfères-tu ?",
+        "a": "Commencer tôt et finir tôt",
+        "b": "Commencer tard et finir tard"
+      },
+      {
+        "id": "work-04",
+        "prompt": "Qu'est-ce qui améliorerait le plus une longue journée au travail ou à l'école ?",
+        "a": "Une salle calme pour une petite sieste",
+        "b": "Ta boisson préférée offerte au café"
+      },
+      {
+        "id": "work-05",
+        "prompt": "On propose un jeu pour briser la glace. Lequel choisis-tu ?",
+        "a": "Deux vérités et un mensonge",
+        "b": "Montrer une photo de ton animal"
+      },
+      {
+        "id": "work-06",
+        "prompt": "Ta caméra s'allume par surprise pendant un appel vidéo. Qu'est-ce qui est pire ?",
+        "a": "Tu portes un chapeau ridicule",
+        "b": "Tu chantes avec un zèle théâtral"
+      },
+      {
+        "id": "work-07",
+        "prompt": "Tu as une semaine avant la date limite. Quelle est ton approche naturelle ?",
+        "a": "Finir en avance puis me détendre",
+        "b": "L'urgence réveille mes superpouvoirs"
+      },
+      {
+        "id": "work-08",
+        "prompt": "Tu peux bannir une phrase des réunions pour toujours. Laquelle ?",
+        "a": "On refait un point plus tard",
+        "b": "Tout le monde voit mon écran ?"
+      },
+      {
+        "id": "work-09",
+        "prompt": "Qui préfères-tu avoir comme voisin de bureau ?",
+        "a": "La personne qui partage ses goûters",
+        "b": "La personne qui a tous les chargeurs"
+      },
+      {
+        "id": "work-10",
+        "prompt": "Une heure se libère dans ta journée par surprise. Comment l'utilises-tu ?",
+        "a": "Prendre de l'avance sur demain",
+        "b": "Savourer une vraie pause bien méritée"
+      },
+      {
+        "id": "work-11",
+        "prompt": "Tu dois adopter un style de présentation inhabituel. Lequel assumes-tu ?",
+        "a": "Des marionnettes faites de chaussettes",
+        "b": "Présenter comme un bulletin météo"
+      },
+      {
+        "id": "work-12",
+        "prompt": "Quelle récompense rendrait un projet difficile plus motivant ?",
+        "a": "Les éloges publics de toute l'équipe",
+        "b": "Un merci discret et un jour de congé"
+      },
+      {
+        "id": "work-13",
+        "prompt": "Le bureau ou la classe peut accueillir un nouvel animal. Tu votes pour lequel ?",
+        "a": "Un chien de refuge très tranquille",
+        "b": "Des poissons au tempérament théâtral"
+      },
+      {
+        "id": "work-14",
+        "prompt": "Votre groupe n'arrive pas à choisir un nom d'équipe. Quel style l'emporte ?",
+        "a": "Un jeu de mots vraiment affreux",
+        "b": "Un nom beaucoup trop intimidant"
+      },
+      {
+        "id": "work-15",
+        "prompt": "Quelle capacité voudrais-tu avoir pendant une semaine chargée ?",
+        "a": "Ne jamais perdre ma concentration",
+        "b": "Toujours savoir exactement quoi dire"
+      },
+      {
+        "id": "work-16",
+        "prompt": "Un message urgent arrive alors que tu pars. Quel est ton premier réflexe ?",
+        "a": "Vérifier si c'est vraiment urgent",
+        "b": "Le garder pour demain matin"
+      },
+      {
+        "id": "work-17",
+        "prompt": "Tout le monde doit participer à un petit concours de talents. Quel est ton numéro ?",
+        "a": "Un karaoké chanté avec une fougue folle",
+        "b": "Un tour de magie étrangement facile"
+      },
+      {
+        "id": "work-18",
+        "prompt": "Tu peux ajouter une amélioration absurde à ton espace de travail. Laquelle ?",
+        "a": "Un toboggan à la place de l'escalier",
+        "b": "Un fauteuil aux massages parfaits"
+      },
+      {
+        "id": "work-19",
+        "prompt": "Qui recruterais-tu dans ton équipe pour un défi stressant ?",
+        "a": "La personne calme qui organise tout",
+        "b": "La personne qui improvise sans peur"
+      },
+      {
+        "id": "work-20",
+        "prompt": "Tu trouves un raccourci qui fait gagner une heure à tous. Que fais-tu d'abord ?",
+        "a": "Le partager immédiatement",
+        "b": "Le tester avant de le partager"
+      }
+    ]
+  },
+  {
+    "id": "holiday",
+    "title": "Fêtes en folie",
+    "description": "Traditions festives, rebondissements en famille et grandes passions pour les desserts.",
+    "questions": [
+      {
+        "id": "holiday-01",
+        "prompt": "Ton costume d'Halloween doit aller dans un extrême. Lequel ?",
+        "a": "D'un réalisme terrifiant",
+        "b": "Un jeu de mots délicieusement mauvais"
+      },
+      {
+        "id": "holiday-02",
+        "prompt": "Au repas de fête, tu peux te resservir une seule fois. De quoi reprends-tu ?",
+        "a": "Des accompagnements salés",
+        "b": "Des desserts"
+      },
+      {
+        "id": "holiday-03",
+        "prompt": "Ton escapade hivernale doit avoir un atout principal. Lequel choisis-tu ?",
+        "a": "Neige, couvertures et feu de cheminée",
+        "b": "Du soleil et absolument aucun manteau"
+      },
+      {
+        "id": "holiday-04",
+        "prompt": "Tu organises la chasse aux œufs du printemps. Quel est ton style ?",
+        "a": "Cachettes faciles et plein de bonbons",
+        "b": "Énigmes, indices et un gros lot"
+      },
+      {
+        "id": "holiday-05",
+        "prompt": "On t'offre un cadeau que tu possèdes déjà. Quel est ton premier réflexe ?",
+        "a": "Remercier et ne rien dire",
+        "b": "Demander gentiment s'il est échangeable"
+      },
+      {
+        "id": "holiday-06",
+        "prompt": "Quelle tradition des fêtes mérite de durer toute l'année ?",
+        "a": "Mettre des guirlandes lumineuses partout",
+        "b": "Avoir une excuse pour faire des biscuits"
+      },
+      {
+        "id": "holiday-07",
+        "prompt": "Tu dois participer à un concours festif. Où as-tu tes chances ?",
+        "a": "Sculpture de citrouilles",
+        "b": "Construction de maisons en pain d'épice"
+      },
+      {
+        "id": "holiday-08",
+        "prompt": "La photo de famille des fêtes tourne mal. Qu'est-ce qui la sauve ?",
+        "a": "Une pose complètement loufoque",
+        "b": "Promettre du dessert à tout le monde"
+      },
+      {
+        "id": "holiday-09",
+        "prompt": "Tu ne peux aller qu'à une soirée du Nouvel An. Laquelle ?",
+        "a": "Une grande fête et le décompte de minuit",
+        "b": "Un dîner chaleureux avec tes proches"
+      },
+      {
+        "id": "holiday-10",
+        "prompt": "Le repas de fête n'a droit qu'à une vedette sucrée. Tu votes pour quoi ?",
+        "a": "Une spectaculaire tarte maison",
+        "b": "Un immense assortiment de biscuits"
+      },
+      {
+        "id": "holiday-11",
+        "prompt": "Quel cadeau préfères-tu recevoir d'un ami ?",
+        "a": "Une création faite main avec attention",
+        "b": "Des billets pour une sortie ensemble"
+      },
+      {
+        "id": "holiday-12",
+        "prompt": "Tu décores pour une fête. Quelle approche l'emporte ?",
+        "a": "Élégance et harmonie parfaites",
+        "b": "Toutes nos décorations, partout"
+      },
+      {
+        "id": "holiday-13",
+        "prompt": "Quelle activité d'Halloween serait la plus amusante avec ce groupe ?",
+        "a": "Une maison hantée terrifiante",
+        "b": "Un film d'horreur et plein d'en-cas"
+      },
+      {
+        "id": "holiday-14",
+        "prompt": "Tu peux faire disparaître une corvée des fêtes par magie. Laquelle ?",
+        "a": "Emballer tous les cadeaux",
+        "b": "Nettoyer après le grand repas"
+      },
+      {
+        "id": "holiday-15",
+        "prompt": "Quelle règle devrait suivre ta playlist des fêtes ?",
+        "a": "Que des classiques connus de tous",
+        "b": "Nouveautés et reprises inattendues"
+      },
+      {
+        "id": "holiday-16",
+        "prompt": "La neige annule tous tes projets par surprise. Que se passe-t-il ensuite ?",
+        "a": "Construire un truc ridicule dehors",
+        "b": "Ne faire qu'un avec le canapé"
+      },
+      {
+        "id": "holiday-17",
+        "prompt": "Ton costume ne ressemble pas du tout au projet initial. Quelle est la solution ?",
+        "a": "Lui inventer une histoire convaincante",
+        "b": "En faire un fantôme avec un drap"
+      },
+      {
+        "id": "holiday-18",
+        "prompt": "Quelle saveur de saison devrait être disponible tous les mois ?",
+        "a": "Tout à la citrouille et aux épices",
+        "b": "Tout au chocolat et à la menthe poivrée"
+      },
+      {
+        "id": "holiday-19",
+        "prompt": "Tu organises un pique-nique printanier, mais la pluie arrive. Quel est le plan B ?",
+        "a": "Installer le pique-nique dans le salon",
+        "b": "Sortir les imperméables et en profiter"
+      },
+      {
+        "id": "holiday-20",
+        "prompt": "Les fêtes sont finies. Quand faut-il ranger les décorations ?",
+        "a": "Vite, j'ai envie de repartir à neuf",
+        "b": "Quand l'esprit de fête s'estompe"
+      }
+    ]
+  }
+]
